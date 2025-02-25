@@ -19,14 +19,14 @@ To evaluate the model performance, the following metrics were used:
 - **F1 Score**
 
 ### Model Performance Comparison:
-![Model Comparison](inference_results.png)
+![Model Comparison](results.png)
 
 ## Inference & Test-Time Augmentation
 - Test-time augmentation (TTA) is used during inference to improve predictions.  
 - Inference results have been attached for comparison.  
 
 ### Model Inference Results:
-![Inference results](results.png)
+![Inference results](inference_results.png)
 
 ## Future Improvements
 - Exploring **Dual-Stream U-Net** and **Attention U-Net** to enhance performance.  
