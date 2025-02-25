@@ -37,4 +37,4 @@ To evaluate the model performance, the following metrics were used:
 1. Clone the repository:
    bash
    git clone git@github.com:Manik1512/forgery-detectiono.git
-   cd forgery-detectiono
+   
