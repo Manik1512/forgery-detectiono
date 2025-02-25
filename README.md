@@ -33,8 +33,11 @@ To evaluate the model performance, the following metrics were used:
 - Further optimizations in encoder selection and hyperparameter tuning.  
 
 ## Getting Started
-### Installation
-1. Clone the repository:
-   bash
-   git clone git@github.com:Manik1512/forgery-detectiono.git
+## Installation
+
+### Clone the Repository
+```bash
+git clone git@github.com:Manik1512/forgery-detectiono.git
+cd forgery-detectiono
+
    
