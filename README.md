@@ -19,7 +19,7 @@ To evaluate the model performance, the following metrics were used:
 - **F1 Score**
 
 ### Model Performance Comparison:
-![Model Comparison](model_performance.png)
+![Model Comparison](inference_results.png)
 
 ## Inference & Test-Time Augmentation
 - Test-time augmentation (TTA) is used during inference to improve predictions.  
